@@ -1,0 +1,43 @@
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.dll
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\System.Windows.Interactivity.dll
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.pdb
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.xml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\Skins\MainSkin.baml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\MainWindow.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\App.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\App.baml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\MainWindow.baml
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\MVVMCreditsCalc.Properties.Resources.resources
+c:\users\днс\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\MVVMCreditsCalc.csproj.GenerateResource.Cache
+C:\Users\ДНС\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\MVVMCreditsCalc.csprojResolveAssemblyReference.cache
+C:\Users\ДНС\documents\visual studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.config
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.pdb
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.CodeAnalysisLog.xml
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.lastcodeanalysissucceeded
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1_MarkupCompile.cache
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1_MarkupCompile.lref
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.g.resources
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.exe
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.pdb
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.manifest
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.application
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.TrustInfo.xml
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.exe.manifest
+C:\Users\ДНС\Documents\Visual Studio 2015\Projects\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.application
+H:\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.config
+H:\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.exe
+H:\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.pdb
+F:\CreditCalc\MVVMCreditsCalc\bin\Debug\CreditCalc v1.1.exe.config
+F:\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.exe
+F:\CreditCalc\MVVMCreditsCalc\obj\Debug\CreditCalc v1.1.pdb
